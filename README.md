@@ -1,182 +1,250 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Sharma;Full+Stack+Developer;Software+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Nikhil+Sharma;AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Web+Applications;Exploring+LLMs+%26+Generative+AI" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/Handshake.gif" width="100" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/Handshake.gif" width="90"/>
 
 </div>
 
-<br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<h2 align="center">
+🚀 AI Engineer | Full Stack Developer | LLM Application Builder
+</h2>
 
-## About Me
 
-I'm **Nikhil Sharma**, a Full Stack Developer specializing in the **MERN/Next.js** ecosystem, focused on building performant, scalable, and user-centric web applications.
+<p align="center">
+Building scalable web applications and AI-powered solutions using modern technologies.
+</p>
 
-I hold a **B.Tech in Computer Science & Engineering** and enjoy solving real-world problems through clean architecture, thoughtful UI design, and efficient backend systems.
-
-Currently expanding my expertise into **Cloud Computing, DevOps, and System Design** to build production-grade, enterprise-ready software.
-
-</td>
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/Coding.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-coral-kappa-v9ffhqpxk4.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sharma-84a936288/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil-28-05)
+
+</div>
+
 
 ---
 
-## Connect With Me
+## 👨‍💻 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+Hi, I'm **Nikhil Sharma**, a final-year **Computer Science Engineering student** passionate about building scalable software and intelligent applications.
 
----
+I specialize in:
 
-</div>
+- Full Stack Development (MERN Stack)
+- AI-powered applications
+- LLM based solutions
+- Backend architecture
+- Problem solving & Data Structures
 
-## Tech Stack
+Currently exploring:
 
-<div align="center">
+- Generative AI
+- Retrieval Augmented Generation (RAG)
+- LangChain workflows
+- Vector Databases
+- Cloud Computing
+- System Design
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,cpp,mysql" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=ts,docker,aws" />
-<img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge&logo=architecture&logoColor=white" />
-
-</div>
-
-<div align="center">
 
 ---
 
-</div>
+# 🛠️ Tech Stack
 
-## GitHub Stats
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql"/>
+</p>
+
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+
+## 🧠 AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_Database-4285F4?style=for-the-badge"/>
+
+</p>
+
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+
+## 🚀 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel"/>
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🤖 AI Customer Support Agent
+
+AI-powered customer support assistant built using modern AI architecture.
+
+**Tech:**
+
+React • FastAPI • LangChain • RAG • ChromaDB • LLM APIs
+
+
+---
+
+## 📄 PDF Compressor Dashboard
+
+Full-stack PDF management platform allowing users to upload, compress and manage PDF files.
+
+**Tech:**
+
+React • Node.js • Express • MongoDB • PDF-lib
+
+
+---
+
+## 🍳 Smart Recipe Builder
+
+Interactive recipe application with modern UI and API integration.
+
+**Tech:**
+
+React • JavaScript • Chakra UI
+
+
+---
+
+## 🏫 Campus OS
+
+Campus management system designed to simplify academic operations.
+
+**Tech:**
+
+MERN Stack • Database Design • Backend APIs
+
+
+---
+
+# 📊 GitHub Analytics
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikhil-28-05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-28-05&theme=tokyonight&hide_border=true"/>
+
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="97%" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-28-05&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
-<div align="center">
-
-### GitHub Profile Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
-<div align="center">
-
-### Contribution Snake
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-<div align="center">
 
 ---
 
-</div>
+# 📈 Contribution Activity
 
-## Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **Smart Recipe Builder** | An interactive React application for discovering, organizing, and managing recipes with a clean, intuitive, and responsive interface. | React.js, JavaScript, CSS3 | [Repository](https://github.com/your-username/smart-recipe-builder) |
-| **Weather App** | A responsive weather application delivering real-time weather data through third-party API integration with a focus on usability. | JavaScript, REST API, HTML5, CSS3 | [Repository](https://github.com/your-username/weather-app) |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-28-05&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<div align="center">
 
 ---
 
-</div>
+# 🏆 GitHub Trophy
 
-## Current Focus
-
-- Building scalable Full Stack applications with clean, maintainable architecture
-- Learning Cloud Computing and DevOps practices (AWS, Docker)
-- Strengthening Data Structures, Algorithms, and System Design fundamentals
-- Contributing to Open Source projects
 
 <div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil-28-05&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
-## Fun Fact
-
-I firmly believe that a well-written commit message is as important as the code itself, since it's often the only documentation future developers (including future me) will ever read.
-
-<div align="center">
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=2E9EF7&style=flat" alt="Profile Views" />
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikhil-28-05/nikhil-28-05/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# 🎯 Current Focus
+
+- Building AI-powered full-stack applications
+- Learning advanced LLM workflows
+- Improving DSA and System Design
+- Exploring Cloud & DevOps
+- Contributing to open-source projects
+
+
+---
+
+# 💡 Developer Philosophy
+
+> "Great software is not only about writing code,  
+> it is about solving meaningful problems."
+
+
+---
+
+<div align="center">
+
+
+<img src="https://komarev.com/ghpvc/?username=nikhil-28-05&label=Profile%20Views&color=2E9EF7&style=flat"/>
+
 
 <br/><br/>
 
-**Thank you for visiting my profile.**
+⭐ Thanks for visiting my profile!
 
-If you like my work, consider starring my repositories.
-
-<img src="https://img.shields.io/badge/Made%20with-Passion-2E9EF7?style=for-the-badge" />
 
 </div>
